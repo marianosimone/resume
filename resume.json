@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "Mariano Simone",
+    "label": "Source-code Artisan",
+    "website": "www.marianosimone.com",
+    "email": "marianosimone@gmail.com",
+    "summary": "I'm an enthusiastic promoter of the development and use of Best Practices in the Process of Software Development. Working either 'solo' for a little startup or as part of a big team for an important enterprise, I focus on keeping a good balance between simplicity, elegance and Getting Things Done.\n\nI consider communication the keystone for a project's success, and I proactively help everyone involved to improve the flow of information.\n\nTeaching \"Problem Solving\" at U.B.A., Coaching in Best Practices or Developing Software in one or more of many technologies, I always enjoy learning, sharing knowledge and being surrounded by people who love what they do as much as I do.",
+    "profiles": [{
+        "network": "github",
+        "username": "marianosimone",
+        "url": "http://github.com/marianosimone"
+    }]
+  },
+  "work": [
+    {
+      "company": "Stripe",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2019-01-28",
+      "summary": "WIP",
+      "highlights": []
+    },
+    {
+      "company": "Thumbtack",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2016-02-02",
+      "endDate": "2019-01-23",
+      "summary": "I'm working as part of the Android team, building the customer-facing app of the marketplace. Apart from feature development, I'm involved in testing initiatives, Kotlin adoption and architecture changes to implement Instant Apps.",
+      "highlights": []
+    },
+    {
+      "company": "Chatous",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2015-10-01",
+      "summary": "I helped scale the the group of a couple of developers working almost on their own, to a team working cohesively and incorporating best practices like Code Reviews, automated unit and integration tests, and design meetings.",
+      "highlights": [],
+      "endDate": "2015-12-02"
+    },
+    {
+      "company": "ZocDoc",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2015-04-01",
+      "summary": "I worked in the full stack implementation of various improvements to user-facing web application, coordinating my work with product managers, designers and QA Engineers.\n\nI helped at each step of the project by implementing features, improving performance, ensuring end-to-end testing and delivering a high quality product in a timely manner.",
+      "highlights": [],
+      "endDate": "2015-09-01"
+    },
+    {
+      "company": "MuleSoft Inc",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2013-01-02",
+      "summary": "I designed and implemented cloud2cloud integration apps, using MuleESB and various of the Cloud Connectors available, as well as some specially built for those apps.\n\nI also worked on improvements for MUnit, MuleSoft's application testing framework.",
+      "highlights": [],
+      "endDate": "2013-07-02"
+    },
+    {
+      "company": "Stash Beauty",
+      "position": "Software Architect",
+      "website": "",
+      "startDate": "2012-06-02",
+      "summary": "I was in charge of the architecture, data design and implementation of a Rest API for the backend of a consumer goods mobile app, using Python on top of the Google App Engine. I also promoted team coordination and did coaching on agile methodologies.\n\n\"Intuitive social shopping for the everyday essentials. Keeps track if what you're running out of, so that you don't have to.\"",
+      "highlights": [],
+      "endDate": "2015-03-02"
+    },
+    {
+      "company": "FDV Solutions",
+      "position": "Software Development Process Improver",
+      "website": "",
+      "startDate": "2011-10-02",
+      "summary": "I was responsible for Research, Design, Coaching and Implementation of Best Development Practices, such as TDD, Continuous Integration/Delivery/Deploy, Code Reviews, Bottom-Up Design Meetings, etc.",
+      "highlights": [],
+      "endDate": "2012-12-02"
+    },
+    {
+      "company": "Livra.com",
+      "position": "Software Developer & Team Leader",
+      "website": "",
+      "startDate": "2011-01-02",
+      "summary": "Working side by side with Project Managers and Business Analysts of various Market Research projects, I developed and maintained real-time applications that track, manage and analyze data about online market research surveys.\n\nI also translated heuristics commonly used by the Business team into scripts that saved them hours of manual work.",
+      "highlights": [],
+      "endDate": "2011-10-02"
+    },
+    {
+      "company": "Corkboard",
+      "position": "Software Architect & Developer",
+      "website": "",
+      "startDate": "2009-02-02",
+      "summary": "I developed the (Ruby on Rails powered) web app, as well as the backend services that allow users to create posts based on ISBN codes, UPCs, phone numbers, addresses, photos, etc. In close contact with the product owners, I helped the company roll out new features rapidly, while keeping the focus on the MVP and early user's feedback.",
+      "highlights": [],
+      "endDate": "2009-12-02"
+    },
+    {
+      "company": "FDV Solutions",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2006-12-02",
+      "summary": "I developed applications in various technologies (JEE, .NET, Ruby on Rails), as well as Desktop and Handheld devices applications. I was in charge of translating requirements to code, give suggestions about implementation, testing and deploying the solutions.\n\nI also worked on improving DynamicJasper, a layer on top of JasperReports, that abstracts many of its complexities and gives it a fluent API. http://dynamicjasper.com/",
+      "highlights": [],
+      "endDate": "2010-12-02"
+    },
+    {
+      "company": "Facultad de Ingeniería - UBA",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "2006-08-01",
+      "summary": "I taught at various CS courses (Algorithms & Programming II and III, Problem Modeling/Optimization, and Problem Analysis/Solving), covering a wide range of topics, from Lateral Thinking and Negotiation to TDD and Enterprise Development.\n\nApart from giving lectures and tutoring, I usually created exercises, assignments and reading material.",
+      "highlights": [],
+      "endDate": "2014-07-02"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Buenos Aires",
+      "area": "",
+      "studyType": "Bachelor of Science (B.S.)",
+      "startDate": "2005-03-02",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2010-03-02"
+    },
+    {
+      "institution": "Colegio Nacional Dr. Arturo U. Illia",
+      "area": "",
+      "studyType": "Bachelor's degree",
+      "startDate": "1999-03-02",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2003-12-02"
+    }
+  ]
+}
