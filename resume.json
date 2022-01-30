@@ -15,9 +15,9 @@
     {
       "company": "Stripe",
       "position": "Software Engineer",
-      "website": "",
+      "website": "https://www.stripe.com",
       "startDate": "2019-01-28",
-      "summary": "WIP",
+      "summary": "I worked on the backend implementation of our Verification systems. These hide the complexities of verifying Personal and Business information of our users all over the world, depending on local laws and regulations, as well as banking partnership requirements.\n\nI was part of a small ad-hoc team tasked with improving the On Call process for Engineering teams: from defining process, to building custom tooling (e.g. custom workflows involving Jira, Slack, and custom-built admin apps.)",
       "highlights": []
     },
     {
@@ -26,15 +26,15 @@
       "website": "",
       "startDate": "2016-02-02",
       "endDate": "2019-01-23",
-      "summary": "I'm working as part of the Android team, building the customer-facing app of the marketplace. Apart from feature development, I'm involved in testing initiatives, Kotlin adoption and architecture changes to implement Instant Apps.",
+      "summary": "I worked as part of the Android team, building the customer-facing app of the marketplace. Apart from feature development, I led testing initiatives, Kotlin adoption and architecture changes to implement Instant Apps.\n\nI was also been part of the growth initiative, increasing participation in the local service marketplace that Thumbtack provides. We accomplished that through SEO and overall user experience crafting, with a constantly evolving landscape of ideas and projects to make Thumbtack the best place to go for a local hire.",
       "highlights": []
     },
     {
       "company": "Chatous",
       "position": "Senior Software Engineer",
-      "website": "",
+      "website": "https://www.thumbtack.com",
       "startDate": "2015-10-01",
-      "summary": "I helped scale the the group of a couple of developers working almost on their own, to a team working cohesively and incorporating best practices like Code Reviews, automated unit and integration tests, and design meetings.",
+      "summary": "I worked on building, designing and scaling highly fault tolerant, highly available infrastructure used by millions of people.\n\nI helped scale the the group of a couple of developers working almost on their own, to a team working cohesively and incorporating best practices like Code Reviews, automated unit and integration tests, and design meetings.",
       "highlights": [],
       "endDate": "2015-12-02"
     },
